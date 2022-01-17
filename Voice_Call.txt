@@ -1,0 +1,1 @@
+print("The txt file is only for voice calling purpose")
